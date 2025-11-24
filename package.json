@@ -14,14 +14,14 @@
     "format": "prettier --write .",
     "lint": "eslint . --ext .js"
   },
-  "author": "AgusXzz",
-  "homepage": "https://github.com/AgusXzz/ChiiMD#readme",
+  "author": "Liviaa",
+  "homepage": "https://github.com//#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AgusXzz/ChiiMD.git"
+    "url": "git+https://github.com//.git"
   },
   "bugs": {
-    "url": "https://github.com/AgusXzz/ChiiMD/issues"
+    "url": "https://github.com///issues"
   },
   "keywords": [
     "termux-whatsapp-bot",
